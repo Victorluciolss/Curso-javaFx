@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+E:\Usuario\Desktop\A A CURSOS DE PROGRAMAÇÃO\Java COMPLETO 2020 Programação Orientada a Objetos +Projetos\WS-JAVAFX\.metadata\.plugins\org.eclipse.jdt.core
+2112246634.index
+882936814.index
+3421595665.index
+2194301959.index
+277842515.index
+4047397020.index
+1479568369.index
+449552968.index
+3221926522.index
+2178849232.index

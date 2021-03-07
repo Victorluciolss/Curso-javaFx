@@ -1,0 +1,1249 @@
+!SESSION 2021-03-01 22:40:57.196 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.979
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.common.doc.user_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.981
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.connectivity.doc.user_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.981
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.connectivity.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.984
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.connectivity.oda.designer.core.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.985
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.connectivity.oda.designer.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.986
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.connectivity.oda.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.987
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.doc.user_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.990
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.apache.derby.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.996
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.997
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.hsqldb.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:40:59.999
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.ibm.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.000
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.ingres.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.002
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.jdbc.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.009
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.jdt.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.010
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.msft.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.010
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.mysql.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.012
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.oda.designer.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.013
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.oda.feature_1.14.102.201911221603
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.013
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.oracle.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.014
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.postgresql.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.015
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.sap.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.016
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.sdk.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.017
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.sqlite.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.018
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.sybase.feature_1.14.200.202008192017
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.020
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.intro_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.021
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.modelbase.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.022
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sdk.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.022
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.data.feature_1.14.200.202008192017
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.023
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.ddl.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.024
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.ddlgen.feature_1.14.200.202009292210
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.025
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.feature_1.14.200.202009292210
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.026
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.parsers.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.027
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.results.feature_1.14.200.202008192017
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.028
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.schemaobjecteditor.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.029
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.sqlbuilder.feature_1.14.200.202009292210
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.029
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqltools.doc.user_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.032
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.draw2d_3.10.100.201606061308
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.069
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.egit.mylyn_5.10.0.202012080955-r
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.071
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.codegen.ecore.ui_2.24.0.v20200917-1423
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.072
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.codegen.ecore_2.24.0.v20200917-1423
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.073
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.codegen.ui_2.22.0.v20200424-0451
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.074
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.codegen_2.21.0.v20200708-0547
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.common.ui_2.17.0.v20190507-0402
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.076
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.converter_2.15.0.v20200324-0723
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.077
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.databinding.edit_1.7.0.v20190323-1059
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.079
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.databinding_1.7.0.v20190323-1059
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.079
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.ecore.editor_2.17.0.v20190528-0725
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.080
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.ecore.edit_2.14.0.v20190822-1451
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.082
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.edit.ui_2.20.0.v20200917-1406
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.083
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.edit_2.16.0.v20190920-0401
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.084
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.mapping.ecore.editor_2.14.0.v20190528-0725
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.085
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.mapping.ecore_2.12.0.v20190323-1059
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.086
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.mapping.ui_2.13.0.v20190323-1059
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.087
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.mapping_2.13.0.v20190323-1059
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.088
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf_2.24.0.v20200917-1439
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.107
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.epp.package.jee.feature_4.18.0.20201210-1200
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.109
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.gef_3.11.0.201606061308
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.113
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.common.eclipselink.feature_1.3.200.v201903221940
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.114
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.common.feature_1.5.100.v201903221940
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.114
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.jaxb.eclipselink.feature_1.4.202.v201903221940
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.115
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.jaxb.feature_1.5.200.v202007091849
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.116
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.jpa.eclipselink.feature_3.4.101.v201903221940
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.117
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.jpa.feature_3.6.1.v202007091901
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.118
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jsf.feature_3.10.1.v202007170344
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.119
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.common.fproj.enablement.jdt_3.13.1.v202007161535
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.120
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.enterprise_core.feature_3.20.0.v202011230434
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.120
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.enterprise_ui.feature_3.20.0.v202011230434
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.121
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.enterprise_userdoc.feature_3.6.100.v201908261515
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.122
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature_2.6.1.v201902121810
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.123
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.server_adapters.ext.feature_3.3.900.v202009261919
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.129
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.server_adapters.feature_3.2.600.v202007170127
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.130
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.server_core.feature_3.4.400.v202011161356
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.131
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.server_ui.feature_3.4.400.v202007170127
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.132
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.server_userdoc.feature_3.3.300.v201901310132
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.132
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.webpageeditor.feature_2.9.1.v202007170344
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.133
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.web_core.feature_3.20.0.v202011230434
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.134
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.web_js_support.feature_3.20.0.v202011230434
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.135
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.web_ui.feature_3.20.0.v202011230434
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.136
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.web_userdoc.feature_3.6.1.v201908261515
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.137
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.ws.axis2tools.feature_1.1.401.v201909051708
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.137
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.ws.cxf.feature_1.1.700.v202011292043
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.138
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.ws.jaxws.dom.feature_1.0.303.v201909051708
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.138
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.ws.jaxws.feature_1.2.700.v202011292043
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.140
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.ws.jaxws_userdoc.feature_1.0.403.v201909051708
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.156
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.m2e.wtp.feature_1.4.4.20201128-1705
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.156
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.m2e.wtp.jaxrs.feature_1.4.4.20201128-1705
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.157
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.m2e.wtp.jpa.feature_1.4.4.20201128-1705
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.158
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.m2e.wtp.jsf.feature_1.4.4.20201128-1705
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.158
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.bugzilla_feature_3.25.2.v20200814-0512
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.159
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.commons.identity_1.17.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.160
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.commons.notifications_1.17.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.160
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.commons.repositories_1.17.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.161
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.commons_3.25.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.162
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.context_feature_3.25.2.v20200828-1617
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.163
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.discovery_3.25.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.164
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.ide_feature_3.25.2.v20200828-1617
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.164
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.java_feature_3.25.2.v20200828-1617
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.166
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.monitor_3.25.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.166
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.tasks.ide_3.25.2.v20200814-0512
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.167
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.team_feature_3.25.2.v20200828-1617
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.38.202008172112
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.170
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn_feature_3.25.2.v20200814-0512
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.172
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.pde_3.14.600.v20201202-1800
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.176
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wildwebdeveloper.embedder.node.feature_0.2.1.202011222154
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.177
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wildwebdeveloper.feature_0.10.5.202012011111
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.178
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.common.fproj_3.7.3.v202007142017
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.179
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.common_core.feature_3.19.0.v202007161535
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.180
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.common_ui.feature_3.19.0.v202011161431
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.181
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.server_adapters.feature_3.2.801.v202007170127
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.182
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.ws_core.feature_3.8.0.v202011190421
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.183
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.ws_ui.feature_3.9.100.v202004082157
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.184
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.ws_userdoc.feature_3.1.501.v201909051708
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.185
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.xml.xpath2.processor.feature_2.0.302.v201909031400
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.187
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.xml_core.feature_3.20.0.v202011230430
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.190
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.xml_ui.feature_3.20.0.v202011230430
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.192
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.xml_userdoc.feature_3.18.0.v202004271556
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.195
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.xsl.feature_1.3.900.v202005251734
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-01 22:41:00.197
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.sonatype.m2e.mavenarchiver.feature_0.17.5.202002191804
+
+!ENTRY org.eclipse.jface 2 0 2021-03-01 22:44:20.886
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-01 22:44:20.886
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@b8142f4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@52d59507,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-01 22:44:42.951
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Victor'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-03-01 22:58:57.177 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-01 22:59:19.975
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-01 22:59:19.975
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@36638b59,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2f8f40cc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-01 22:59:32.700
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Victor'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-03-02 19:31:19.706 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-03-02 19:31:34.422
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2021-03-02 19:31:40.815
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-02 19:31:40.815
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@26bce60d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@76eadc5a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-02 19:31:51.172
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Victor'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ltk.core.refactoring 4 10000 2021-03-02 19:42:31.544
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not move: E:\Usuario\Desktop\A A CURSOS DE PROGRAMAÇÃO\Java COMPLETO 2020 Programação Orientada a Objetos +Projetos\WS-JAVAFX\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\HELLO.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:48)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:392)
+	at org.eclipse.ltk.internal.core.refactoring.history.RefactoringHistoryService.moveHistory(RefactoringHistoryService.java:856)
+	at org.eclipse.ltk.internal.core.refactoring.history.RefactoringHistoryService.peformResourceChanged(RefactoringHistoryService.java:878)
+	at org.eclipse.ltk.internal.core.refactoring.history.RefactoringHistoryService.lambda$1(RefactoringHistoryService.java:369)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+!SUBENTRY 1 org.eclipse.core.filesystem 4 272 2021-03-02 19:42:31.553
+!MESSAGE Could not move: E:\Usuario\Desktop\A A CURSOS DE PROGRAMAÇÃO\Java COMPLETO 2020 Programação Orientada a Objetos +Projetos\WS-JAVAFX\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\HELLO.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-03-02 19:48:23.826
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-03-02 19:48:23.826
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.826
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.826
+!MESSAGE Software currently installed: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.826
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.826
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.jar 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.826
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.jar 3.4.1.201810030500)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.827
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.827
+!MESSAGE From: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.827
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.ide.fxgraph.feature.feature.group [3.4.1.201810030906,3.4.1.201810030906]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.827
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.828
+!MESSAGE From: e(fx)clipse - IDE - FXGraph 3.4.1.201810030906 (org.eclipse.fx.ide.fxgraph.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.828
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.group [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.828
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.828
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.group 3.4.1.201810030500)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.828
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.828
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.828
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.828
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.7.0.202010120720,3.7.0.202010120720]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-03-02 19:48:23.838
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-03-02 19:48:23.838
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE Software currently installed: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.839
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.jar 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.jar 3.4.1.201810030500)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.839
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE From: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.ide.fxgraph.feature.feature.group [3.4.1.201810030906,3.4.1.201810030906]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.839
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE From: e(fx)clipse - IDE - FXGraph 3.4.1.201810030906 (org.eclipse.fx.ide.fxgraph.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.group [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.839
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.group 3.4.1.201810030500)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.839
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.839
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.7.0.202010120720,3.7.0.202010120720]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-03-02 19:48:23.849
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-03-02 19:48:23.849
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE Software currently installed: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.849
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.jar 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.jar 3.4.1.201810030500)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.849
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE From: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.ide.fxgraph.feature.feature.group [3.4.1.201810030906,3.4.1.201810030906]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.849
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE From: e(fx)clipse - IDE - FXGraph 3.4.1.201810030906 (org.eclipse.fx.ide.fxgraph.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.group [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.849
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.group 3.4.1.201810030500)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.849
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.849
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.7.0.202010120720,3.7.0.202010120720]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-03-02 19:48:23.850
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-03-02 19:48:23.850
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE Software currently installed: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.851
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.jar 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.jar 3.4.1.201810030500)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.851
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE From: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.ide.fxgraph.feature.feature.group [3.4.1.201810030906,3.4.1.201810030906]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.851
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE From: e(fx)clipse - IDE - FXGraph 3.4.1.201810030906 (org.eclipse.fx.ide.fxgraph.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.group [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.851
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.group 3.4.1.201810030500)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:48:23.851
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:48:23.851
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.7.0.202010120720,3.7.0.202010120720]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-03-02 19:57:42.109
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-03-02 19:57:42.109
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE Software currently installed: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.110
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.jar 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.jar 3.4.1.201810030500)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.110
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE From: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.ide.fxgraph.feature.feature.group [3.4.1.201810030906,3.4.1.201810030906]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.110
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE From: e(fx)clipse - IDE - FXGraph 3.4.1.201810030906 (org.eclipse.fx.ide.fxgraph.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.group [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.110
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.group 3.4.1.201810030500)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.110
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.110
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.7.0.202010120720,3.7.0.202010120720]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-03-02 19:57:42.153
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-03-02 19:57:42.153
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE Software currently installed: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.153
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.jar 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.jar 3.4.1.201810030500)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.153
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE From: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.ide.fxgraph.feature.feature.group [3.4.1.201810030906,3.4.1.201810030906]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.153
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE From: e(fx)clipse - IDE - FXGraph 3.4.1.201810030906 (org.eclipse.fx.ide.fxgraph.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.group [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.153
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.group 3.4.1.201810030500)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.153
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.153
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.7.0.202010120720,3.7.0.202010120720]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-03-02 19:57:42.163
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-03-02 19:57:42.163
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.163
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.163
+!MESSAGE Software currently installed: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.163
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.164
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.jar 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.164
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.jar 3.4.1.201810030500)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.164
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.164
+!MESSAGE From: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.164
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.ide.fxgraph.feature.feature.group [3.4.1.201810030906,3.4.1.201810030906]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.164
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.164
+!MESSAGE From: e(fx)clipse - IDE - FXGraph 3.4.1.201810030906 (org.eclipse.fx.ide.fxgraph.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.164
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.group [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.164
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.164
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.group 3.4.1.201810030500)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.164
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.164
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.164
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.164
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.7.0.202010120720,3.7.0.202010120720]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-03-02 19:57:42.165
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-03-02 19:57:42.165
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.165
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.165
+!MESSAGE Software currently installed: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.165
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.165
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.jar 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.165
+!MESSAGE e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.jar 3.4.1.201810030500)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.165
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.165
+!MESSAGE From: e(fx)clipse - IDE 3.4.1.201810030906 (org.eclipse.fx.ide.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.165
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.ide.fxgraph.feature.feature.group [3.4.1.201810030906,3.4.1.201810030906]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.165
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.165
+!MESSAGE From: e(fx)clipse - IDE - FXGraph 3.4.1.201810030906 (org.eclipse.fx.ide.fxgraph.feature.feature.group 3.4.1.201810030906)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.165
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.group [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.165
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.165
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.4.1.201810030500 (org.eclipse.fx.runtime.min.feature.feature.group 3.4.1.201810030500)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.165
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.4.1.201810030500,3.4.1.201810030500]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-03-02 19:57:42.166
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.166
+!MESSAGE From: e(fx)clipse - Minimal JavaFX OSGi integration bundles 3.7.0.202010120720 (org.eclipse.fx.runtime.min.feature.feature.group 3.7.0.202010120720)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-03-02 19:57:42.166
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.fx.runtime.min.feature.feature.jar [3.7.0.202010120720,3.7.0.202010120720]
+!SESSION 2021-03-02 20:02:16.376 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.common.doc.user_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.connectivity.doc.user_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.connectivity.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.connectivity.oda.designer.core.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.connectivity.oda.designer.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.connectivity.oda.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.doc.user_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.apache.derby.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.hsqldb.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.ibm.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.ingres.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.jdbc.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.jdt.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.msft.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.mysql.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.oda.designer.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.oda.feature_1.14.102.201911221603
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.oracle.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.postgresql.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.sap.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.sdk.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.sqlite.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.enablement.sybase.feature_1.14.200.202008192017
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.intro_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.modelbase.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sdk.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.data.feature_1.14.200.202008192017
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.ddl.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.ddlgen.feature_1.14.200.202009292210
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.feature_1.14.200.202009292210
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.340
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.parsers.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.356
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.results.feature_1.14.200.202008192017
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.356
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.schemaobjecteditor.feature_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.356
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqldevtools.sqlbuilder.feature_1.14.200.202009292210
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.356
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.datatools.sqltools.doc.user_1.14.102.201911250848
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.356
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.draw2d_3.10.100.201606061308
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.543
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.egit.mylyn_5.10.0.202012080955-r
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.575
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.codegen.ecore.ui_2.24.0.v20200917-1423
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.575
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.codegen.ecore_2.24.0.v20200917-1423
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.575
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.codegen.ui_2.22.0.v20200424-0451
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.575
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.codegen_2.21.0.v20200708-0547
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.575
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.common.ui_2.17.0.v20190507-0402
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.606
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.converter_2.15.0.v20200324-0723
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.606
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.databinding.edit_1.7.0.v20190323-1059
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.606
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.databinding_1.7.0.v20190323-1059
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.606
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.ecore.editor_2.17.0.v20190528-0725
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.606
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.ecore.edit_2.14.0.v20190822-1451
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.637
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.edit.ui_2.20.0.v20200917-1406
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.637
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.edit_2.16.0.v20190920-0401
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.637
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.mapping.ecore.editor_2.14.0.v20190528-0725
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.637
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.mapping.ecore_2.12.0.v20190323-1059
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.637
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.mapping.ui_2.13.0.v20190323-1059
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.653
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf.mapping_2.13.0.v20190323-1059
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.653
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.emf_2.24.0.v20200917-1439
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.778
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.epp.package.jee.feature_4.18.0.20201210-1200
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:30.965
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.gef_3.11.0.201606061308
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.059
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.common.eclipselink.feature_1.3.200.v201903221940
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.059
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.common.feature_1.5.100.v201903221940
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.059
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.jaxb.eclipselink.feature_1.4.202.v201903221940
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.059
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.jaxb.feature_1.5.200.v202007091849
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.jpa.eclipselink.feature_3.4.101.v201903221940
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jpt.jpa.feature_3.6.1.v202007091901
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jsf.feature_3.10.1.v202007170344
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.common.fproj.enablement.jdt_3.13.1.v202007161535
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.enterprise_core.feature_3.20.0.v202011230434
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.enterprise_ui.feature_3.20.0.v202011230434
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.enterprise_userdoc.feature_3.6.100.v201908261515
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature_2.6.1.v201902121810
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.server_adapters.ext.feature_3.3.900.v202009261919
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.server_adapters.feature_3.2.600.v202007170127
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.server_core.feature_3.4.400.v202011161356
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.server_ui.feature_3.4.400.v202007170127
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.server_userdoc.feature_3.3.300.v201901310132
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.webpageeditor.feature_2.9.1.v202007170344
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.075
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.web_core.feature_3.20.0.v202011230434
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.106
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.web_js_support.feature_3.20.0.v202011230434
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.106
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.web_ui.feature_3.20.0.v202011230434
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.106
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.web_userdoc.feature_3.6.1.v201908261515
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.106
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.ws.axis2tools.feature_1.1.401.v201909051708
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.106
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.ws.cxf.feature_1.1.700.v202011292043
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.106
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.ws.jaxws.dom.feature_1.0.303.v201909051708
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.106
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.ws.jaxws.feature_1.2.700.v202011292043
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.106
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.jst.ws.jaxws_userdoc.feature_1.0.403.v201909051708
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.153
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.m2e.wtp.feature_1.4.4.20201128-1705
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.153
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.m2e.wtp.jaxrs.feature_1.4.4.20201128-1705
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.153
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.m2e.wtp.jpa.feature_1.4.4.20201128-1705
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.153
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.m2e.wtp.jsf.feature_1.4.4.20201128-1705
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.153
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.bugzilla_feature_3.25.2.v20200814-0512
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.153
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.commons.identity_1.17.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.commons.notifications_1.17.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.commons.repositories_1.17.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.commons_3.25.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.context_feature_3.25.2.v20200828-1617
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.discovery_3.25.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.ide_feature_3.25.2.v20200828-1617
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.java_feature_3.25.2.v20200828-1617
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.monitor_3.25.2.v20200813-0821
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.tasks.ide_3.25.2.v20200814-0512
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.168
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.team_feature_3.25.2.v20200828-1617
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.184
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.38.202008172112
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.184
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.mylyn_feature_3.25.2.v20200814-0512
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.200
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.pde_3.14.600.v20201202-1800
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wildwebdeveloper.embedder.node.feature_0.2.1.202011222154
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.293
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wildwebdeveloper.feature_0.10.5.202012011111
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.325
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.common.fproj_3.7.3.v202007142017
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.325
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.server_adapters.feature_3.2.801.v202007170127
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.325
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.ws_core.feature_3.8.0.v202011190421
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.325
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.ws_ui.feature_3.9.100.v202004082157
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.325
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.ws_userdoc.feature_3.1.501.v201909051708
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.325
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.xml.xpath2.processor.feature_2.0.302.v201909031400
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.325
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.eclipse.wst.xsl.feature_1.3.900.v202005251734
+
+!ENTRY org.eclipse.update.configurator 4 0 2021-03-02 20:02:31.325
+!MESSAGE Unable to find feature.xml in directory: C:\eclipse\features\org.sonatype.m2e.mavenarchiver.feature_0.17.5.202002191804
+
+!ENTRY org.eclipse.jface 2 0 2021-03-02 20:02:44.842
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-02 20:02:44.843
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45295cfd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@42c9b1ee,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-02 20:03:17.042
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Victor'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-03-04 20:54:02.483 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-03-04 20:54:55.781
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2021-03-04 20:55:02.670
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-04 20:55:02.670
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@36885319,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62a81453,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-04 20:55:46.658
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Victor'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-03-07 09:49:09.209 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-07 09:49:38.948
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-07 09:49:38.948
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7fb5368e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5847010,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-07 09:49:53.180
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Victor'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
